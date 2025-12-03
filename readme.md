@@ -9,3 +9,5 @@ Este proyecto proporciona una herramienta para analizar y visualizar la retenci�
 - Cálculo de tasas de retención para cada cohorte en diferentes intervalos de tiempo.
 - Generación de gráficos para visualizar las tasas de retención a lo largo del tiempo.
 - Análisis comparativo de diferentes cohortes para identificar tendencias y patrones.
+
+V. mejorada
